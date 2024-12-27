@@ -46,7 +46,7 @@
 
 <h1 align="center"> ✨  Now Playing  ✨ </h1>
 
-<p align="center"> <img src="https://kai-spotify.vercel.app/api/spotify" alt="kai0071" /> </p>
+<p align="center"> <img src="https://spotify.com/track/7uWJbF2gmQlcuhLrFnxGsV?si=f5l_r9j9QDiWWXBVTdhxBgalt="GETSUGA" /> </p>
 <br>
 <br>
 <h2 align="center"> 🔰 Tap Here To Fork 🔰 </h2>
